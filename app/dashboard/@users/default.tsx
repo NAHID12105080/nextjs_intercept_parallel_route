@@ -3,8 +3,8 @@ import { AnimatedContainer } from "@/components/animated-container";
 
 export default function DefaultUsers() {
   return (
-    <AnimatedContainer className="space-y-4">
-      <h2 className="text-2xl font-bold">Users</h2>
+    <AnimatedContainer className="p-4">
+      <h1 className="text-2xl font-bold">Users</h1>
       <p className="text-muted-foreground">
         Select a user from the list to view details.
       </p>
